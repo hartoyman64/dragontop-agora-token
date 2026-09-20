@@ -1,0 +1,12 @@
+{
+  "name": "dragontop-agora-token",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "agora-token": "^2.0.3"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
